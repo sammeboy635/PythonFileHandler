@@ -1,0 +1,6 @@
+---Duplicate Files: for Folder (/Users/samuel/Documents/Python3/FileHandling)---
+File ['test_1 copy 2.txt', 'test_1 copy.txt']: @['/Users/samuel/Documents/Python3/FileHandling/test_1 copy 2.txt', '/Users/samuel/Documents/Python3/FileHandling/test_1 copy.txt']
+
+File ['Debugging.txt', 'test.txt']: @['/Users/samuel/Documents/Python3/FileHandling/Debugging.txt', '/Users/samuel/Documents/Python3/FileHandling/test.txt']
+
+Total of 2 Files were Found
