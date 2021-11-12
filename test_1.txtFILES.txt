@@ -1,2 +1,0 @@
-File ['test_1 copy 2.txt', 'test_1 copy.txt']: @['/Users/samuel/Documents/Python3/FileHandling/test_1 copy 2.txt', '/Users/samuel/Documents/Python3/FileHandling/test_1 copy.txt']
-
